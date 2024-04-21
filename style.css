@@ -1,0 +1,15 @@
+
+ 
+        
+    
+ header{background-color:honeydew;height: 80px;
+       outline-offset: 5px;outline-width: 3px;outline-color: cornflowerblue;outline-style: solid;}
+.toll{text-align: center; font-size: 200%;font-style: oblique;background-image: url(img/Bienvenue.jpg);
+color: transparent;background-size: 20px; -webkit-background-clip: text;padding-top: 15px;}
+         
+     img{translate: 95%;margin-top: 0px;}
+   
+        h3{width: 498px;height: 30px;background-color:cornflowerblue;
+    margin-left: 32%;   margin-bottom:2px ;text-align : center;}
+    body{background-color: azure; background-image: url(img/bird.webp);background-size: 160px;
+    background-repeat: no-repeat;background-position-x: 80%;background-position-y: 26%;background-attachment: fixed;} }
